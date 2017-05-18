@@ -1,0 +1,12 @@
+{
+    "name": "io.rayner.matt.happywaiter",
+    "displayName": "HappyWaiter",
+    "version": "1.0.0",
+    "description": "Quickly and easily calculate a bill split with friends, and a tip.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Matthew Rayner",
+    "license": "MIT"
+}
